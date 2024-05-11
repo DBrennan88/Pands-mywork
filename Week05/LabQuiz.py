@@ -24,13 +24,11 @@ someone = dict(firstname = "Darragh")
 '''
 me = {
     "firstname" : "Darragh",
-    "studying" [
-    {"semester" : "1"}
-    {"courseName" : "programming"}
-    {"semester" : "2"}
-    {"courseName" : "Data Represenatation"}
-    ]
-}
+    "studying" : [
+        {"semester" : "1", "courseName" : "programming"}, 
+        {"semester" : "2", "courseName" : "Data Analytics" }
+    ] 
+ }
 
 
 ## find th types of variables
